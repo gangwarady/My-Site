@@ -7,8 +7,7 @@ body {
 }
  .bio{
     line-height: 2;
-    width: 33%;
-    margin: auto;
+   
  }
 
 .txt{
@@ -134,4 +133,8 @@ a:hover{
 
 .get{
     margin-bottom: 0px;
+}
+
+.wel{
+   width:100%;
 }
